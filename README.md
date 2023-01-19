@@ -1,16 +1,23 @@
 # subject-line-tonality
 Pipeline to classify email subject lines with HuggingFace and personalize them by audience to improve response rates. Originally created for fundraising in the non-profit space could 
 
-<b>Challenge</b>
-All clients looking to 
+<b>Challenge</b><br>
+Recent economic conditions have reduced donor acquisition rates and increased churn. Non-profits need ways to:
+1) Improve engagement with existing donors between fundraising asks
+2) Increase donation rates during matched giving tentpole moments 
+3) Re-engage lapsed audiences
 
-<b>Solution</b>
-All clients looking to 
+<b>Solution</b><br>
+This model proposed to deliver an 8- 
 
-<b>Approach</b>
-All clients looking to 
+<b>Workflow</b><br>
+1) Data Ingestion:
+2) d
+3) d
+4) d
+5) d
 
-<b>Final Thoughts</b>
+<b>Final Thoughts</b><br>
 All clients looking to 
 
 
