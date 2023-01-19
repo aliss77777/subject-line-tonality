@@ -8,7 +8,7 @@ Recent economic conditions have reduced donor acquisition rates and increased ch
 3) Re-engage lapsed audiences
 
 <b>Solution</b><br>
-This model delivers an 8-category classification of email subject lines for non-profit fundraising that covers a broad scope of situations and audiences. 
+This model delivers an 8-category classification of email subject lines for non-profit fundraising that covers a broad scope of situations and audiences. A deep learning model is used for feature engineering and then through dimensionality reduction (factor analysis) the 8-tonalities were created to capture the nuance and tonality of various type of emails. The initial factor analysis generalized into a classification model with 95.7% accuracy to to score future incremental data against the original classification schema. Finally, as the final test of model validity, various predictive modeling scenarios were tested, using tonality as an predictable variable on response rate, and found to be predict the desired response for audience and objective with 80-90% accuracy.
 
 Assume source data file ingestion from an email marketing platform into the analysis environment. In this demo CSV's are used but for a live use case this should be ported to a data warehouse connection in the cloud. 
 
